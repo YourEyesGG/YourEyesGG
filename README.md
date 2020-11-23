@@ -1,5 +1,5 @@
 ### 👋 I'am a Normal Person 👋
 
-- 💻 FiveM Developer
+- 💻 FiveM Server Developer
 - 💻 Bot Developer
 - 💻 Store Seller
