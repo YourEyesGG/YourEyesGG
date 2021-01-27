@@ -1,4 +1,4 @@
-### 👋 I'am a Normal Person 👋
+### 👋 Hai, Ini Informasi Personal Ku 👋
 
 > Name
 - My Name is YourEyes!
@@ -10,4 +10,4 @@
 - 💻 Bot Developer
 - 💻 Store Seller
 
-> [![Discord](https://cdn.discordapp.com/attachments/789281541435817994/790778063385395211/unknown.png)](https://discord.gg/XPqYtrdxDV)
+> [![Discord](https://cdn.discordapp.com/attachments/792892195162161202/803838180427038740/unknown.png)](https://discord.gg/XPqYtrdxDV)
