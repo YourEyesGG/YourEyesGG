@@ -2,7 +2,7 @@
 
 > Name
 - My Name is YourEyes!
-- My Discord : YourEyes#9436
+- My Discord : YourEyes#0001
 
 > My Passions
 - 🎆 FiveM Roleplay Player
