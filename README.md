@@ -13,4 +13,5 @@
 
 # Github Statistic
 ![](https://komarev.com/ghpvc/?username=YourEyesGG&color=blue)
-[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=YourEyesGG&show_icons=true&theme=dark&count_private=true)](https://discord.gg/XPqYtrdxDV)
+
+> [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=YourEyesGG&show_icons=true&theme=dark&count_private=true)](https://discord.gg/XPqYtrdxDV)
