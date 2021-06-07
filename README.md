@@ -6,7 +6,7 @@
 
 # 🔮My Passions
 - 🎆 **FiveM Roleplay Player**
-- 💻 **Web Developer**
+- 💻 **Front End Developer**
 - 🎓 **FiveM Server Developer**
 
 > [![Discord](https://cdn.discordapp.com/attachments/792892195162161202/803838180427038740/unknown.png)](https://discord.gg/XPqYtrdxDV)
