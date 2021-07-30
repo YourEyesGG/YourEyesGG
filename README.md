@@ -2,7 +2,7 @@
 
 # 🏆Name
 - 👑My Name is YourEyes!
-- 🎯My Discord : YourEyes#0001
+- 🎯My Discord : YourEyes#9751
 
 # 🔮My Passions
 - 🎆 **FiveM Roleplay Player**
