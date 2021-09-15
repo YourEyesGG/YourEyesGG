@@ -1,4 +1,4 @@
-### 👋 Hai, Ini Informasi Personal Ku 👋
+### 👋 Hello 👋
 
 # 🏆Name
 - 👑My Name is YourEyes!
